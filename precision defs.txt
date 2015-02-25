@@ -18,3 +18,24 @@ Following and echoing the other opinions, I would add that a very broad view of 
 
 Precision medicine, also referred to as personalized medicine or individualized medicine, is thought of as therapies that target a given disease as precisely as possible at a protein or molecular level e.g. above mentioned cancer therapies, enzyme replacement therapies for inborn errors of metabolism or ivacaftor for some CF patients. 
 Yet, while we may understand a disease mechanism at a molecular level there are thousands of other genes that differ from one person to another. To be more “precise” one can look at the exome, genome, or transcriptome of a person. Even with that data, precision medicine is only roughly precise because we still interact with our environment which influences gene expression every day. Thus, what may be precise one day may not be precise another. To answer one of the above questions, precision medicine (Obama initiative) may bring novel therapies to market, but not in 1-2 yrs (drug development takes years) maybe in 10-15 yrs. And even then, until we better understand our genome as a whole and its interaction with our daily environment (food we eat, social interactions & other environmental factors) there is still a long way before precision medicine.
+
+For years, the practice of medicine incorporates "personalized"
+characteristics to be more "precise" in the treatment of patients that
+includes genetic, social, environmental, social factors. The movement
+of "precision medicine" is mainly driven by two technologies: 1)
+large-scale -omics profilings/diagnostics, and 2) targeted therapies.
+
+1) With the first advance of microarrays, there was the promise of
+getting the fingerprint of each disease, esp in the area of cancer.
+Most of those efforts failed in being clinically relevant, with
+notable exception of Genomic Health. Newest promise is now
+next-generation sequencing, with panel, exome, and genome tests for
+genetic diseases and cancers. However, just profiling is often not yet
+sufficient for clinical relevance, and hence an active debate on the
+current clinical usefulness of NGS.
+
+2) Targeted therapies bolster the first technology. Depending on the
+right genetic profile, there are difference drugs that allow for
+"precise" therapies. While these drugs are still few and far between,
+this promise of "precise drugs" based on "precise diagnostics"
+provides the impetus and dream of moving into precision medicine.

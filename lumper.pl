@@ -5,11 +5,11 @@ while(<>){
     s/medicine//ig;
     s/therapies/therapy/ig;
     s/technologies/technology/ig;
+    s/studies/study/ig;
     foreach my $plural (@regular_plural) {
 	(my $singular = $plural) =~ s/s$//;
 	s/$plural/$singular/;
     }
-    # therapy technology
     print;
 }
 

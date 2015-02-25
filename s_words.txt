@@ -11,6 +11,7 @@ cancers
 categories
 causes
 changes
+characteristics
 crossroads
 decisions
 decreases
@@ -23,6 +24,7 @@ does
 drivers
 drugs
 effects
+efforts
 errors
 events
 examples
@@ -35,6 +37,9 @@ genomes
 genomics
 guidelines
 has
+impetus
+includes
+incorporates
 increases
 individuals
 influences
@@ -47,8 +52,11 @@ makes
 mechanisms
 medications
 mellitus
+microarrays
 mutations
+ngs
 numerous
+omics
 opinions
 options
 parameters
@@ -56,7 +64,9 @@ patients
 person’s
 physicians
 principles
+profilings
 providers
+provides
 questions
 refers
 samples
@@ -84,8 +94,10 @@ tumors
 types
 understands
 us
+usefulness
 variants
 vs
+was
 ways
 who’s
 years
