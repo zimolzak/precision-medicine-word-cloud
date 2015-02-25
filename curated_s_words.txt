@@ -2,6 +2,7 @@ advances
 allows
 alterations
 cancers
+categories
 causes
 changes
 decisions
@@ -9,11 +10,14 @@ decreases
 definitions
 diagnostics
 diseases
+disorders
 drivers
 drugs
 effects
 errors
+events
 examples
+factors
 fields
 genes
 genomes
@@ -29,15 +33,20 @@ makes
 mechanisms
 medications
 mutations
+opinions
 options
+parameters
 patients
 physicians
 principles
 providers
+questions
 refers
 samples
 seems
 specimens
+splitters
+studies
 suggests
 syndromes
 takes
@@ -45,6 +54,7 @@ targets
 tests
 things
 thousands
+translocations
 treatments
 trials
 tumors
@@ -52,4 +62,5 @@ types
 understands
 variants
 ways
+years
 yrs
