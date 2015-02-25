@@ -1,6 +1,10 @@
 Precision Medicine Word Cloud
 ========================
 
+![image of final word cloud](https://dl.dropboxusercontent.com/u/38640281/github_img/precision_wordcloud.png)
+
+Background
+----
 There are some experts online now (Feb 2015) giving definitions of
 precision medicine. They are in the NEJM Open Forum hosted by Medstro.
 https://medstro.com/posts/1701
@@ -24,8 +28,3 @@ Usage
 3. `./lumper.pl precision\ defs.txt > output.txt`
 
 4. Paste `output.txt` into http://www.jasondavies.com/wordcloud
-
-Results
-----
-
-![image of final word cloud](https://dl.dropboxusercontent.com/u/38640281/github_img/precision_wordcloud.png)
